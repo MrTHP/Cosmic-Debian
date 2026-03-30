@@ -27,7 +27,7 @@ sudo apt update && sudo apt install -y wget alien dpkg
 
 ### 1. Télécharger le script
 ```bash
-wget https://exemple.com/cosmic-debian.sh  # Remplacez par l'URL réelle du script
+wget https://raw.githubusercontent.com/MrTHP/Cosmic-Debian/refs/heads/main/cosmic-debian.sh 
 chmod +x cosmic-debian.sh
 ```
 
